@@ -22,7 +22,7 @@
 2) Machine Language
 3) Assembly language
 4) High level language
-5) 
+   
 
 
 > Существуют и типы языков программирования:
