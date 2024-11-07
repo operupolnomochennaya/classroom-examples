@@ -1,0 +1,23 @@
+namespace TypeOperations
+using System
+class Program
+{
+	static void Main(string[] args)
+	{
+		string name = Console.ReadLine();
+		int age = int.Parse(Console.ReadLine());
+		int course = int.Parse(Console.ReadLine());
+		string groupNumber = Cinsole.ReadLine();
+		
+
+		Console.WriteLine("Анкета студента");
+		Console.WriteLine("Введите своё имя" + "=" + name);
+		Console.WriteLine("Ваш возраст" + "=" + age);
+		Console.WriteLine("Введите свой курс" + "=" + course);
+		Console.WriteLine("Введите свой номер группы" + "=" + groupNumber);
+
+
+
+
+	}
+}
